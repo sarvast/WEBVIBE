@@ -30,10 +30,6 @@ Empower students, schools, professionals, and local businesses by providing AI-g
 **UI/UX Designer & Product Lead**
 Anushka is a talented UI/UX designer passionate about creating beautiful, user-friendly interfaces. She brings fresh perspectives to design and believes in making web design accessible to everyone.
 
-### Sarthak
-**Full-Stack Developer & AI Automation Specialist**
-Sarthak is a passionate full-stack engineer with expertise in web development, AI tooling, and automation. He brings innovative ideas and cutting-edge technology to power Webvibe's AI engine.
-
 ---
 
 ## 🚀 Our Services
@@ -94,7 +90,7 @@ Available anytime after deployment with fast 24-hour turnaround.
 
 ## 📞 Contact Us
 
-**Phone:** 92501 84715 | 7985040858
+**Phone:** 92501 84715
 **Email:** webvibe002@gmail.com
 **Instagram:** [@webvibe02](https://instagram.com/webvibe02)
 
@@ -214,6 +210,6 @@ Proprietary © 2025 Webvibe. All rights reserved.
 
 ## 🙌 Built with ❤️
 
-Built by **Anushka & Sarthak** for the Indian startup ecosystem.
+Built by **Anushka** for the Indian startup ecosystem.
 
 **Building India's Digital Heartbeat — One Website at a Time.** 🚀

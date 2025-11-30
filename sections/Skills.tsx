@@ -47,15 +47,15 @@ const Skills = () => {
             </Card>
 
             <Card className="p-8 md:p-10">
-              <div className="text-5xl mb-4 text-center">👨‍💻</div>
+              <div className="text-5xl mb-4 text-center">📱</div>
               <h4 className="text-black text-2xl font-bold text-center mb-2">
-                Sarthak
+                Responsive Design
               </h4>
               <p className="text-black/60 text-center mb-4 font-semibold">
-                Full-Stack Developer & AI Automation Specialist
+                Mobile First Approach
               </p>
               <p className="text-black/70 text-sm leading-relaxed">
-                Sarthak is a passionate full-stack engineer with expertise in web development, AI tooling, and automation. As a fresh developer, he brings innovative ideas and cutting-edge technology to power Webvibe's AI engine for rapid website generation.
+                Every Webvibe website is fully responsive and optimized for all devices, ensuring your clients can reach customers on any platform.
               </p>
             </Card>
           </div>

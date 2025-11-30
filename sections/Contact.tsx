@@ -48,11 +48,6 @@ const Contact = () => {
                       92501 84715
                     </a>
                   </p>
-                  <p className="text-black font-semibold">
-                    <a href="tel:917985040858" className="hover:text-blue-600">
-                      7985040858
-                    </a>
-                  </p>
                 </div>
                 <div className="text-center">
                   <p className="text-black/60 text-sm font-semibold">Email</p>

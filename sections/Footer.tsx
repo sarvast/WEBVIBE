@@ -18,7 +18,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 hover:text-blue-600 transition"
             >
-              <span className="font-semibold">Anushka & Sarthak</span>
+              <span className="font-semibold">Anushka</span>
             </a>
           </nav>
         </div>
